@@ -27,4 +27,4 @@ Hi my name is Jeremiah, I am a **Self-Taught** Web Developer specializing in the
 
 ### 📈 Github Stats
 
-## [![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiah-bogard)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+## [![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiah-bogard)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark)
