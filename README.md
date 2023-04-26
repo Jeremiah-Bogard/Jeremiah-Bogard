@@ -1,30 +1,23 @@
-# Jeremiah Bogard
-
-Hi my name is Jeremiah, I am a **Self-Taught** Web Developer specializing in the **Frontend and Backend**. I first started my programming journey in 2018 on a Non-Profit platform known as [Khan Academy](https://khanacademy.org). Shortly after completing all the courses they had at the time, I moved to watching [YouTube Videos](https://youtube.com/@WebDevSimplified)[^1]. By utilizing this free platform, I was able to scale my knowledge of programming to a new level.
-
-[^1]: [Web Dev Simplified](https://github.com/WebDevSimplified)
-
----
-
-### 😎 Hobbies
-
--   🖥️ PC Building/Repair
--   🪚 Woodworking
--   👨🏼‍💻 Coding
-
----
-
-### 🔤 Languages
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<br/>
-
----
-
-### 📈 Github Stats
-
-![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiah-bogard&show_icons=true&theme=dark)
+# Hello, I'm Jeremiah, an [IT Professional](https://jeremiah-bogard.github.io/Portfolio) 😀
+  ## 🧍🏼‍♂️ Who Am I?
+   Hello, I am a **Full Stack Web Devloper** and **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
+   [^1]: - [A free platform for learning Web Development and more.](https://freecodecamp.org)
+   [^2]: - [Mostly Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+   [^3]: - [Information Technology Course](https://coursecareers.com) created by [Josh Madakorcc](https://github.com/joshmadakorcc)
+  ## 👨🏼‍💻 IT Help Desk Projects
+   I have lots of experince with customer service and have learned quite a bit about managing accounts with Windows. Here are some of the things I did inside a Windows Virtual Machine created with Microsoft Azure:
+   - Example 1
+   - Example 2
+   - Example 3
+  ## 🖥️ Web Development Projects
+   I have been learing and developing websites since 2020. Here are a few of my website creations:
+   - Example 4
+   - Example 5
+   - Example 6
+  ## 🛠️ Skills
+   - Create Websites in JavaScript, ReactJS, and NodeJS
+   - Familiar with Windows 10, Windows Server, and Microsoft Azure
+   - Experienced in Customer Service
+# 🤳🏻 Connect With Me
+  Portfolio: https://jeremiah-bogard.github.io/Portfolio
+  Google Form: https://tinyurl.com/yc69ypu9
