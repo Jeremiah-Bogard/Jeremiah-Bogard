@@ -1,16 +1,17 @@
 # Hello, I'm Jeremiah, an [IT Professional](https://jeremiah-bogard.github.io/Portfolio) 😀
   ## 🧍🏼‍♂️ Who Am I?
-   Hello, I am a **Full Stack Web Devloper** and **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
+   Hello, I am a **Full Stack Web Developer** and **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
    [^1]: - [A free platform for learning Web Development and more.](https://freecodecamp.org)
    [^2]: - [Mostly Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
    [^3]: - [Information Technology Course](https://coursecareers.com) created by [Josh Madakorcc](https://github.com/joshmadakorcc)
   ## 👨🏼‍💻 IT Help Desk Projects
-   I have lots of experince with customer service and have learned quite a bit about managing accounts with Windows. Here are some of the things I did inside a Windows Virtual Machine created with Microsoft Azure:
-   - Example 1
-   - Example 2
-   - Example 3
+   I have lots of experience with customer service and have learned quite a bit about managing accounts with Windows. Here are some of the things I did inside a Windows Virtual Machine created with Microsoft Azure:
+   - [Observe traffic between two computers using Wireshark](https://github.com/Jeremiah-Bogard/observe-traffic-wireshark)
+   - [OS Ticket Prerequsites](https://github.com/Jeremiah-Bogard/osTicket-prereqs)
+   - [Setting up and Installing Active Directory](https://github.com/Jeremiah-Bogard/active-directory-prereqs)
+   - [File Sharing on the same Network](https://github.com/Jeremiah-Bogard/network-file-sharing)
   ## 🖥️ Web Development Projects
-   I have been learing and developing websites since 2020. Here are a few of my website creations:
+   I have been learning and developing websites since 2020. Here are a few of my website creations:
    - Example 4
    - Example 5
    - Example 6
@@ -20,4 +21,4 @@
    - Experienced in Customer Service
 # 🤳🏻 Connect With Me
   Portfolio: https://jeremiah-bogard.github.io/Portfolio
-  Google Form: https://tinyurl.com/yc69ypu9
+  Contact Form: https://tinyurl.com/yc69ypu9
