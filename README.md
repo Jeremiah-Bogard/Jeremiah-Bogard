@@ -15,7 +15,6 @@
    - [Observe traffic between two computers using Wireshark](https://github.com/Jeremiah-Bogard/observe-traffic-wireshark)
    - [OS Ticket Prerequsites](https://github.com/Jeremiah-Bogard/osTicket-prereqs)
    - [Setting up and Installing Active Directory](https://github.com/Jeremiah-Bogard/active-directory-prereqs)
-   - [File Sharing on the same Network](https://github.com/Jeremiah-Bogard/network-file-sharing)
  
   ## 🖥️ Web Development Projects
   
