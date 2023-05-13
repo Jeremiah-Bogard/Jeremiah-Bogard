@@ -16,14 +16,14 @@
    - [OS Ticket Prerequsites](https://github.com/Jeremiah-Bogard/osTicket-prereqs)
    - [Setting up and Installing Active Directory](https://github.com/Jeremiah-Bogard/active-directory-prereqs)
  
-  ## 🖥️ Web Development Projects
+  <!--## 🖥️ Web Development Projects
   
    I have been learning and developing websites since 2020. Here are a few of my website creations:
    
    - Example 4
    - Example 5
    - Example 6
- 
+ -->
   ## 🛠️ Skills
   
    - Create Websites in JavaScript, ReactJS, and NodeJS
