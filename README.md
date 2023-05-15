@@ -33,4 +33,5 @@
 # 🤳🏻 Connect With Me
 
   Portfolio: https://jeremiah-bogard.github.io/Portfolio
+  LinkedIn: www.linkedin.com/in/jeremiah-bogard
   Contact Form: https://tinyurl.com/yc69ypu9
