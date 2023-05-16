@@ -34,4 +34,5 @@
 
   Portfolio: https://jeremiah-bogard.github.io/Portfolio<br/>
   LinkedIn: www.linkedin.com/in/jeremiah-bogard<br/>
+  CourseCareers: https://profile.coursecareers.com/jeremiah.bogard<br/>
   Contact Form: https://tinyurl.com/yc69ypu9
