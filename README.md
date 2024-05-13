@@ -2,7 +2,7 @@
 
   ## 🧍🏼‍♂️ Who Am I?
   
-   Hello, I am a **Full Stack Web Developer** and **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
+   Hello, I am an **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
    
    [^1]: - [A free platform for learning Web Development and more.](https://freecodecamp.org)
    [^2]: - [Mostly Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
