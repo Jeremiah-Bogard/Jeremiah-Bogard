@@ -2,11 +2,11 @@
 
   ## 🧍🏼‍♂️ Who Am I?
   
-   Hello, I am an **IT Help Desk** professional. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
+   Hello, I am an **IT Help Desk** professional. I aspire to become a Network Engineer. To obtain this goal I have been teaching myself all the different skills and knowledge need to be a Network Engineer. My **Self Taught** training consists of online resources such as Free Code Camp[^1], YouTube[^2], and Course Careers[^3].
    
    [^1]: - [A free platform for learning Web Development and more.](https://freecodecamp.org)
-   [^2]: - [Mostly Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
-   [^3]: - [Information Technology Course](https://coursecareers.com) created by [Josh Madakorcc](https://github.com/joshmadakorcc)
+   [^2]: - Credit to: [NetworkChuck](https://www.youtube.com/@NetworkChuck) and [David Bombal](https://www.youtube.com/@davidbombal)
+   [^3]: - [Information Technology Course](https://coursecareers.com) taught by [Josh Madakorcc](https://github.com/joshmadakorcc)
    
   ## 👨🏼‍💻 IT Help Desk Projects
   
@@ -15,20 +15,13 @@
    - [Observe traffic between two computers using Wireshark](https://github.com/Jeremiah-Bogard/observe-traffic-wireshark)
    - [OS Ticket Prerequsites](https://github.com/Jeremiah-Bogard/osTicket-prereqs)
    - [Setting up and Installing Active Directory](https://github.com/Jeremiah-Bogard/active-directory-prereqs)
- 
-  <!--## 🖥️ Web Development Projects
-  
-   I have been learning and developing websites since 2020. Here are a few of my website creations:
-   
-   - Example 4
-   - Example 5
-   - Example 6
- -->
+   - 
   ## 🛠️ Skills
   
-   - Create Websites in JavaScript, ReactJS, and NodeJS
+   - Technical Problem Sovling
    - Familiar with Windows 10, Windows Server, and Microsoft Azure
-   - Experienced in Customer Service
+   - Experience in delivering excelent Customer Service
+   - Expertise with Coaxial, Fiber-Optic, and Ethernet Cables
  
 # 🤳🏻 Connect With Me
 
