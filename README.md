@@ -1,4 +1,4 @@
-# Hello, I'm Jeremiah, an [IT Professional](https://jeremiah-bogard.github.io/Portfolio) 😀
+# Hello, I'm Jeremiah, an [IT Professional](https://jbtechtv.com) 😀
 
   ## 🧍🏼‍♂️ Who Am I?
   
@@ -25,7 +25,7 @@
  
 # 🤳🏻 Connect With Me
 
-  Portfolio: https://jeremiah-bogard.github.io/Portfolio<br/>
+  Portfolio: https://jbtechtv.com<br/>
   LinkedIn: www.linkedin.com/in/jeremiah-bogard<br/>
   CourseCareers: https://profile.coursecareers.com/jeremiah.bogard<br/>
   Contact Form: https://tinyurl.com/yc69ypu9
