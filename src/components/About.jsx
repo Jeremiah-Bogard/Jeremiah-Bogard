@@ -1,3 +1,4 @@
+import { NavLink } from "react-router-dom"
 import { GET } from "../utils"
 
 export default function About() {
@@ -40,7 +41,7 @@ export default function About() {
                     </div>
 
                     <div className="sidebar-btns">
-                        <a className="btn btn-primary" href="/projects" data-page="projects">View Projects</a>
+                        <NavLink className="btn btn-primary" to="/projects">View Projects</NavLink>
                         <a className="btn btn-outline" target="_blank" href="mailto:jbtechtv.mail@gmail.com">Get in Touch</a>
                     </div>
                 </aside>

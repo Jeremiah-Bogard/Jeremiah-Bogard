@@ -12,14 +12,14 @@ function App() {
     {/* Navigation Header */}
     <nav>
       <div className="nav-inner">
-        <a className="nav-logo" href="/" data-page="about">
+        <NavLink className="nav-logo" to="/">
           <div className="dot"></div>
           jbtechtv.com
-        </a>
+        </NavLink>
         <ul className="nav-links">
-          <li><NavLink to="/" data-page="about" id="nav-about" className={({isActive}) => isActive ? "active" : "nav-link"}>About</NavLink></li>
-          <li><NavLink to="/projects" data-page="projects" id="nav-projects">Projects</NavLink></li>
-          <li><NavLink to="/skills" data-page="skills" id="nav-skills">Skills & Certs</NavLink></li>
+          <li><NavLink to="/" id="nav-about" className={({isActive}) => isActive ? "active" : "nav-link"}>About</NavLink></li>
+          <li><NavLink to="/projects" id="nav-projects">Projects</NavLink></li>
+          <li><NavLink to="/skills" id="nav-skills">Skills & Certs</NavLink></li>
         </ul>
       </div>
     </nav>
