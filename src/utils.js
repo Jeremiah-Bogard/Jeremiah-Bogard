@@ -7,7 +7,7 @@ const DATA = {
 		{
 			id: "35EFDD39-3F63-43BA-9327-F570FA92F65D",
 			title: "Implementing Active Directory",
-			cover: "/projects/windows-ad.webp",
+			cover: "/project-images/windows-ad.webp",
 			description:
 				"Set up a virtual Domain Controller with Windows Active Directory.",
 			tags: ["Windows AD", "Active Directory"],
@@ -21,7 +21,7 @@ const DATA = {
 		{
 			id: "B31211AD-A4A3-4058-8CA2-8D8095147245",
 			title: "Observing Network Traffic - Wireshark",
-			cover: "/projects/wireshark.webp",
+			cover: "/project-images/wireshark.webp",
 			description:
 				"Learn how to use Wireshark to observe traffic on the network.",
 			tags: ["Wireshark"],
@@ -35,7 +35,7 @@ const DATA = {
 		{
 			id: "2F3AE5EB-0466-4313-BD5C-2E159197C5A4",
 			title: "osTicket",
-			cover: "/projects/osTicket.webp",
+			cover: "/project-images/osTicket.webp",
 			description:
 				"Learn how to use osTicket inside a Windows virtual machine.",
 			tags: ["osTicket", "Ticketing Systems", "Help Desk"],
