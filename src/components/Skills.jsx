@@ -39,6 +39,7 @@ export default function Skills() {
                         {certs && certs.map(obj => (
                             <div key={obj.name} className="cert-row">
                                 {obj.icon && (<img className="cert-icon" src={obj.icon} alt={obj.name} />)}
+                                {!obj.icon && (<p></p>)}
                                 <div className="cert-info">
                                     <div className="cert-name">{obj.name}</div>
                                     <div className="cert-issuer">{obj.issuer}</div>

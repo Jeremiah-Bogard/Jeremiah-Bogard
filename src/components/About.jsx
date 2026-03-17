@@ -1,7 +1,6 @@
-import { NavLink } from "react-router-dom"
 import { GET } from "../utils"
 
-export default function About() {
+export default function About({ goToProjects }) {
 
     const projTotal = GET("projects", true)
     const certTotal = GET("certifications", true)
@@ -30,18 +29,18 @@ export default function About() {
                     <div className="sidebar-section">
                         <div className="sidebar-label">Links</div>
                         <div className="meta-row">
-                            <span className="meta-icon">↗</span><a className="meta-link" href="https://linkedin.com/in/jeremiah-bogard" target="_blank">linkedin.com/in/jeremiah-bogard</a>
+                            <span className="meta-icon"><img width="20rem" src="/icons/linkedin.svg" /></span><a className="meta-link" href="https://linkedin.com/in/jeremiah-bogard" target="_blank">linkedin.com/in/jeremiah-bogard</a>
                         </div>
                         <div className="meta-row">
-                            <span className="meta-icon">↗</span><a className="meta-link" href="https://github.com/Jeremiah-Bogard" target="_blank">github.com/Jeremiah-Bogard</a>
+                            <span className="meta-icon"><img width="20rem" src="/icons/github.svg" /></span><a className="meta-link" href="https://github.com/Jeremiah-Bogard" target="_blank">github.com/Jeremiah-Bogard</a>
                         </div>
                         <div className="meta-row">
-                            <span className="meta-icon">✉</span><a className="meta-link" target="_blank" href="mailto:jbtechtv.mail@gmail.com">jbtechtv.mail@gmail.com</a>
+                            <span className="meta-icon"><img width="20rem" src="/icons/email.svg" /></span><a className="meta-link" target="_blank" href="mailto:jbtechtv.mail@gmail.com">jbtechtv.mail@gmail.com</a>
                         </div>
                     </div>
 
                     <div className="sidebar-btns">
-                        <NavLink className="btn btn-primary" to="/projects">View Projects</NavLink>
+                        <button className="btn btn-primary" onClick={goToProjects}>View Projects</button>
                         <a className="btn btn-outline" target="_blank" href="mailto:jbtechtv.mail@gmail.com">Get in Touch</a>
                     </div>
                 </aside>

@@ -28,7 +28,7 @@ export default function Projects() {
                                 {obj.tags.map(t => <span key={t} className="tag">{t}</span>)}
                             </div>
                             <div className="project-links">
-                                {obj.links.map(l => <a key={l.label} className="project-link" href={l.url} target="_blank">↗ {l.label}</a>)}
+                                {obj.links.map(l => <a key={l.label} className="project-link" href={l.url} target="_blank">&#8599; {l.label}</a>)}
                             </div>
                         </div>
                     ))}
