@@ -19,8 +19,9 @@ function App() {
     <nav>
       <div className="nav-inner">
         <a className="nav-logo" href="/">
-          <div className="dot"></div>
-          jbtechtv.com
+          {/* <div className="dot"></div>
+          jbtechtv.com */}
+          <img height="60px" src="/jbtechtv-logo.svg" />
         </a>
         <ul className="nav-links">
           <li><button onClick={() => changePage("/")} id="nav-about" className={page === "/" ? "active" : "nav-link"}>About</button></li>
