@@ -15,7 +15,7 @@ export default function Projects() {
                     {projects && projects.map((obj, i) => (
                         <div key={obj.id} className="project-card">
                             {obj.cover && (
-                                <img className="project-cover" src={obj.cover} alt={`${obj.title} cover`} />
+                                <img className="project-cover" src={`.${obj.cover}`} alt={`${obj.title} cover`} />
                             )}
                             {!obj.cover && (<div className="project-cover-placeholder">NO IMAGE</div>)}
 

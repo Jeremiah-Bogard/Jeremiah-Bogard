@@ -29,13 +29,13 @@ export default function About({ goToProjects }) {
                     <div className="sidebar-section">
                         <div className="sidebar-label">Links</div>
                         <div className="meta-row">
-                            <span className="meta-icon"><img width="20rem" src="/icons/linkedin.svg" /></span><a className="meta-link" href="https://linkedin.com/in/jeremiah-bogard" target="_blank">linkedin.com/in/jeremiah-bogard</a>
+                            <span className="meta-icon"><img width="20rem" src="./icons/linkedin.svg" /></span><a className="meta-link" href="https://linkedin.com/in/jeremiah-bogard" target="_blank">linkedin.com/in/jeremiah-bogard</a>
                         </div>
                         <div className="meta-row">
                             <span className="meta-icon"><img width="20rem" src="/icons/github.svg" /></span><a className="meta-link" href="https://github.com/Jeremiah-Bogard" target="_blank">github.com/Jeremiah-Bogard</a>
                         </div>
                         <div className="meta-row">
-                            <span className="meta-icon"><img width="20rem" src="/icons/email.svg" /></span><a className="meta-link" target="_blank" href="mailto:jbtechtv.mail@gmail.com">jbtechtv.mail@gmail.com</a>
+                            <span className="meta-icon"><img width="20rem" src="./icons/email.svg" /></span><a className="meta-link" target="_blank" href="mailto:jbtechtv.mail@gmail.com">jbtechtv.mail@gmail.com</a>
                         </div>
                     </div>
 
@@ -49,14 +49,14 @@ export default function About({ goToProjects }) {
                 <div className="about-main">
                     <div className="about-main-title">About</div>
                     <p className="about-bio-large">
-                    I am Jeremiah Bogard an aspiring <strong>Network Engineer</strong>. I am currently pursuing a B.S. in Information Technology at Western Governors University and hold certifications in CompTIA A+, ITIL v4 Foundation, and CourseCareers IT Professional.<br/>
+                    I am Jeremiah Bogard an aspiring <strong>Network Engineer</strong>. I am currently pursuing a B.S. in Information Technology at Western Governors University and hold certifications in AWS Cloud Practitioner, CompTIA A+, and ITIL v4 Foundation.<br/>
                     With hands-on experience as a Field Technician at Comcast, I have developed practical expertise in network infrastructure, fiber optics, coaxial systems, and customer-focused troubleshooting. My technical interests span Active Directory, Azure Virtual Machines, Wireshark, firewalls, ACLs, and network security.<br/>
                     Driven by a passion for building <strong>efficient and secure networks</strong>, I am eager to bring my growing skill set to a dynamic team and pursue a long-term career in Network Engineering.<br/>
                     </p>
 
                     <div className="stats-row">
                     <div className="stat-cell">
-                        <div className="stat-num">2<span>+</span></div>
+                        <div className="stat-num">3<span>+</span></div>
                         <div className="stat-desc">Years hands-on Telecommunications experience</div>
                     </div>
                     <div className="stat-cell">

@@ -68,12 +68,13 @@ Collaboration, Adaptability, Detail-Oriented, Accountability, Reliability
 
 ## 🏅 Certifications
 
-| Certification       | Issuer        | Date         | Status      |
-| ------------------- | ------------- | ------------ | ----------- |
-| CompTIA A+          | CompTIA       | March 2026   | Active      |
-| ITIL v4 Foundations | PeopleCert    | January 2025 | Active      |
-| CompTIA ITF+        | CompTIA       | May 2024     | Active      |
-| Cisco CCNA          | Cisco Systems | —            | In Progress |
+| Certification          | Issuer                       | Date         | Status      |
+| ---------------------- | ---------------------------- | ------------ | ----------- |
+| AWS Cloud Practitioner | AWS Training & Certification | October 2026 | Active      |
+| CompTIA A+             | CompTIA                      | March 2026   | Active      |
+| ITIL v4 Foundations    | PeopleCert                   | January 2025 | Active      |
+| CompTIA ITF+           | CompTIA                      | May 2024     | Active      |
+| Cisco CCNA             | Cisco Systems                | —            | In Progress |
 
 ---
 

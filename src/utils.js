@@ -95,6 +95,13 @@ const DATA = {
 	/* ── CERTIFICATIONS ───────────────────────────── */
 	certifications: [
 		{
+			icon: "/certifications/aws-certified-cloud-practitioner.png",
+			name: "AWS Certified Cloud Practitioner",
+			issuer: ",AWS Training and Certification",
+			date: "Earned: October 2026",
+			status: "active",
+		},
+		{
 			icon: "/certifications/comptia-a.svg",
 			name: "CompTIA A+",
 			issuer: "CompTIA",

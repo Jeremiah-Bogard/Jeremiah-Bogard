@@ -175,7 +175,7 @@ section {
 }
 
 .avatar-ring {
-	background-image: url("/profile-pic.jpg");
+	background-image: url("../profile-pic.jpg");
 	background-position: absolute;
 	background-size: cover;
 	background-repeat: no-repeat;
